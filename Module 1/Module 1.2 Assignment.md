@@ -9,6 +9,7 @@ For the Module 1.2 Assignment, you will open up your command line and complete t
 - [ ] Commit README.md to your repository using `git commit`
 - [ ] Make sure your _Working Directory_ and _Staging Area_ are clean with `git status`
 - [ ] Make sure your commit has been logged into your repository by using `git log`
+- [ ] Make sure you learn well and answer all question, goodlucl? 'git questions'
 
 Once you have completed these steps, take a screenshot of your command line, with the steps above, and upload your screenshot to a new `Issue` titled `Module 1.2 Assignment`. I have added the screenshot from the Module 1.1 Assignment for reference.
 
